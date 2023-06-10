@@ -1,0 +1,43 @@
+@font-face{
+	font-family: "AWS";
+	font-style: normal;
+	font-weight: 350;
+	src: local("AWS"),
+	url('/assets/fontes/awesome.woff2') format('woff2')
+}
+
+
+p {
+	line-height: 1.3; font-size: 16px;
+	font-family: 'Courier New';
+}
+
+.welcome {
+	font-size: 18px;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.mim {
+
+}
+
+.cursos {
+
+}
+
+.certs {
+
+}
+
+.experiencia {
+
+}
+
+table {
+	width: 100%;
+	border: 2;
+	border-style: double;
+}
+
+footer {
+	text-align: center;
